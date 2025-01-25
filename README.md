@@ -21,3 +21,6 @@ Secondly, if Deno succeeds in winning this case, this will be an incredible unde
 > Use Markdown syntax to make it look nice
 
 ✅
+
+### Comment by Johnny Ding
+I would be greatly relieved if the JavaScript specification changes it name "ECMAScript", which sounds like a completely different programming language used in the 1980s.
